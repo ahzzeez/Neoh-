@@ -1,0 +1,7 @@
+Neoh 
+
+- Bluetooth/Usb Toggle
+-Scans for all connected USB devices/Bluetooth devices (for statement)
+- Gives 3 options (Do:, Go to:, and Act(change volume, brightness, or execute new bash command))
+- Saves config in a file or dictionary to read on startup (if statement)
+- Runs in background and starts up on command.
