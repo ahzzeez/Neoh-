@@ -1,0 +1,54 @@
+
+Name                                                                     Status 
+----                                                                     ------ 
+Headset (WH-CH700N)                                                      OK     
+Pixio PX248PA (HD Audio Driver for Display Audio)                        OK     
+Headphones (WH-CH520)                                                    Unknown
+DELL U2419H (HD Audio Driver for Display Audio)                          Unknown
+Headphones (WH-CH700N)                                                   OK     
+Speakers (Realtek(R) Audio)                                              OK     
+Microphone Array (Intelr Smart Sound Technology for Digital Microphones) OK     
+Speakers (Realtek(R) Audio)                                              Unknown
+SL5564K (3- HD Audio Driver for Display Audio)                           Unknown
+Headset (WH-CH700N Hands-Free)                                           OK     
+SL5564K (2- HD Audio Driver for Display Audio)                           Unknown
+SL5564K (HD Audio Driver for Display Audio)                              Unknown
+HISENSE (HD Audio Driver for Display Audio)                              Unknown
+
+
+
+Name                                                                     Status 
+----                                                                     ------ 
+Headset (WH-CH700N)                                                      OK     
+Pixio PX248PA (HD Audio Driver for Display Audio)                        OK     
+Headphones (WH-CH520)                                                    Unknown
+DELL U2419H (HD Audio Driver for Display Audio)                          Unknown
+Headphones (WH-CH700N)                                                   OK     
+Speakers (Realtek(R) Audio)                                              OK     
+Microphone Array (Intelr Smart Sound Technology for Digital Microphones) OK     
+Speakers (Realtek(R) Audio)                                              Unknown
+SL5564K (3- HD Audio Driver for Display Audio)                           Unknown
+Headset (WH-CH700N Hands-Free)                                           OK     
+SL5564K (2- HD Audio Driver for Display Audio)                           Unknown
+SL5564K (HD Audio Driver for Display Audio)                              Unknown
+HISENSE (HD Audio Driver for Display Audio)                              Unknown
+
+
+
+Name                                                                     Status 
+----                                                                     ------ 
+Headset (WH-CH700N)                                                      OK     
+Pixio PX248PA (HD Audio Driver for Display Audio)                        OK     
+Headphones (WH-CH520)                                                    Unknown
+DELL U2419H (HD Audio Driver for Display Audio)                          Unknown
+Headphones (WH-CH700N)                                                   OK     
+Speakers (Realtek(R) Audio)                                              OK     
+Microphone Array (Intelr Smart Sound Technology for Digital Microphones) OK     
+Speakers (Realtek(R) Audio)                                              Unknown
+SL5564K (3- HD Audio Driver for Display Audio)                           Unknown
+Headset (WH-CH700N Hands-Free)                                           OK     
+SL5564K (2- HD Audio Driver for Display Audio)                           Unknown
+SL5564K (HD Audio Driver for Display Audio)                              Unknown
+HISENSE (HD Audio Driver for Display Audio)                              Unknown
+
+
